@@ -1,0 +1,29 @@
+{
+  "name": "animaction",
+  "version": "0.0.1",
+  "description": "Obtén imágenes, textos y gifs del tipo anime para comandos de acción, reacción y diversión o para los que quieras, además 100% en español y muy facil de usar.",
+  "main": "animaction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KitsuneCode/animaction.git"
+  },
+  "keywords": [
+    "random-anime-gifs",
+    "api-hispana",
+    "discord",
+    "anime",
+    "accion",
+    "reaccion",
+    "diversion",
+    "facil"
+  ],
+  "author": "KitsuneCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KitsuneCode/animaction/issues"
+  },
+  "homepage": "https://github.com/KitsuneCode/animaction#readme"
+}
