@@ -2,7 +2,7 @@
 
 ## Instalación ⚙
 ```bash
-$ npm install animaction
+$ npm install animaction //Proximamente
 ```
 
 ## Usos ✨
