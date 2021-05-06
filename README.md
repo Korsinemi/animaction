@@ -57,5 +57,5 @@ anime | Random anime images. | `randomanime.anime()`
 nsfw | Random NSFW anime images. | `randomanime.nsfw()`
 
 ## License
-[MIT](https://github.com/amistaa/random-anime/blob/master/LICENSE) © Amista
+[MIT](https://github.com/KitsuneCode/animaction/blob/main/LICENSE) © KitsuneCode con amor
 sar
