@@ -106,12 +106,12 @@ const client = new Discord.Client();
 client.on("message", async message => {
   /* Solo la imagen al azar de un anime */
   if (message.content === "comun") {
-    const answer = animaction.anime();
+    const anime = animaction.anime();
     message.channel.send(anime);
   }
-  /* En un embed (Discord.JS Version 12) devuelve la imagen al azar d eun anime */
+  /* En un embed (Discord.JS Version 12) devuelve la imagen al azar de un anime */
   if (message.content === "embed") {
-    const answer = animaction.anime();
+    const anime = animaction.anime();
     const animaction_embed = new Discord.MessageEmbed()
         .setTitle('Imagen de un anime')
         .setImage(anime)
