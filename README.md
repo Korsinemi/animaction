@@ -14,7 +14,7 @@
 
 ## Installation
 ```bash
-$ npm install random-anime
+$ npm install animaction
 ```
 
 ## Usage
@@ -58,4 +58,3 @@ nsfw | Random NSFW anime images. | `randomanime.nsfw()`
 
 ## License
 [MIT](https://github.com/KitsuneCode/animaction/blob/main/LICENSE) © KitsuneCode con amor
-sar
