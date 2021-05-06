@@ -1,15 +1,3 @@
-<p align="center">
-  <a href="https://www.npmjs.com/package/random-anime">
-    <img src="https://cdn.discordapp.com/attachments/666573321894232095/690961950527717456/random-anime.png" alt="Random Anime">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/v/random-anime.svg?maxAge=3600" alt="NPM version" />
-  </a>
-  <a href="https://www.npmjs.com/package/random-anime"><img src="https://img.shields.io/npm/dt/random-anime.svg?maxAge=3600" alt="NPM downloads" />
-   </a>
-  </div>
-</p>
 <h3 align="center"><strong>Obtén imágenes, textos y gifs del tipo anime para comandos de acción, reacción y diversión o para los que quieras, además 100% en español y muy facil de usar.</strong></h3>
 
 ## Instalación ⚙
