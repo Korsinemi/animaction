@@ -138,5 +138,10 @@ answer | Texto | Responde a tu pregunta | `animaction.answer()`
 :---: | --- | --- | ---
 anime | Imagen | Devuelve una imagen al azar de un anime .w. | `animaction.anime()`
 
+## Ayuda extra 🎫
+
+- Puedes encontrar ayuda detallada en el mismo servidor de soporte de mi bot clickeando [aqui]()
+- Puedes ahorrar trabajo utilizando los archivos en la carpeta templates
+
 ## Licensia 🗃
 [MIT](https://github.com/KitsuneCode/animaction/blob/main/LICENSE) © KitsuneCode con 🧡
