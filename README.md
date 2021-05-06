@@ -10,7 +10,7 @@
    </a>
   </div>
 </p>
-<h3 align="center"><strong>Generate random anime images with a huge database.</strong></h3>
+<h3 align="center"><strong>Obtén imágenes y gifs del tipo anime para comandos de acción, diversión y reacción o los que quieras, además 100% en español y fácil de usar</strong></h3>
 
 ## Installation
 ```bash
