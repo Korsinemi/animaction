@@ -138,10 +138,13 @@ answer | Texto | Responde a tu pregunta | `animaction.answer()`
 :---: | --- | --- | ---
 anime | Imagen | Devuelve una imagen al azar de un anime .w. | `animaction.anime()`
 
-## Ayuda extra 🎫
+## Actualizaciónes ⭐
+- Aqui se pondran las actualizaciones generales ^^
 
-- Puedes encontrar ayuda detallada en el mismo servidor de soporte de mi bot clickeando [aqui]()
+## Ayuda extra 🎫
+- Puedes encontrar ayuda detallada en el mismo servidor de soporte de mi bot clickeando [aqui](https://discord.gg/QR6xQbTNab)
 - Puedes ahorrar trabajo utilizando los archivos en la carpeta templates
+- Puedes apoyarme tambien invitando a mi bot [aqui](https://discord.com/oauth2/authorize?client_id=831865259357896755&permissions=8&scope=bot)
 
 ## Licensia 🗃
 [MIT](https://github.com/KitsuneCode/animaction/blob/main/LICENSE) © KitsuneCode con 🧡
