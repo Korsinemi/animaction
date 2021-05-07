@@ -131,9 +131,19 @@ answer | Texto | Responde a tu pregunta | `animaction.answer()`
 anime | Imagen | Devuelve una imagen al azar de un anime .w. | `animaction.anime()`
 
 ## Actualizaciónes ⭐
-**Version** | **Detalles**
-:---: | ---
-**v0.0.1** | Lanzada oficialmente
+
+```lua
+Animaction
+├── v0.0.1
+│   └── 📦 Lanzada oficialmente.
+└── v0.0.2
+    ├── ⭐ Cambios.
+    │    ├── Se agrego una nueva acción Sip.
+    │    └── Se añadieron mas gifs a las acciones existentes, para un total de 20 x acción.
+    └── ⭐ Correcciones.
+         └── Se reparo la accióm Dance.
+```
+
 
 ## Ayuda extra 🎫
 - Puedes encontrar ayuda detallada en el mismo servidor de soporte de mi bot clickeando [aqui](https://discord.gg/QR6xQbTNab)
