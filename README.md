@@ -1,8 +1,12 @@
 <h3 align="center"><strong>Obtén imágenes, textos y gifs del tipo anime para comandos de acción, reacción y diversión o para los que quieras, además 100% en español y muy facil de usar.</strong></h3>
 
 ## Instalación ⚙
+
+Descargar el proyecto y ponerlo en la carpeta de **node_modules**
+
+Intalación automatica proximamente
 ```bash
-$ npm install animaction //Proximamente
+$ npm install 
 ```
 
 ## Usos ✨
