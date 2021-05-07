@@ -131,7 +131,9 @@ answer | Texto | Responde a tu pregunta | `animaction.answer()`
 anime | Imagen | Devuelve una imagen al azar de un anime .w. | `animaction.anime()`
 
 ## Actualizaciónes ⭐
-- Aqui se pondran las actualizaciones generales ^^
+**Version** | **Detalles**
+:---: | ---
+**v0.0.1** | Lanzada oficialmente
 
 ## Ayuda extra 🎫
 - Puedes encontrar ayuda detallada en el mismo servidor de soporte de mi bot clickeando [aqui](https://discord.gg/QR6xQbTNab)
