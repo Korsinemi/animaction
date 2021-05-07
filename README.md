@@ -121,6 +121,7 @@ client.login("BOT_TOKEN");
 :---: | --- | --- | ---
 wag | Gif | Bate la cola owo | `animaction.wag()`
 dance | Gif | Bailemos!! | `animaction.dance()`
+sip | Gif | Bebe algo | `animaction.sip()`
 ### Texto 😺
 **Opción** | **Tipo** | **Descripción** | **Uso**
 :---: | --- | --- | ---
