@@ -50,9 +50,9 @@ client.login("BOT_TOKEN");
 #### Verificar que funcione 🔒
 ```javascript
 const animaction = require('animaction')
-const answer = animaction.answer()
+const answer = animaction.facts()
 
-console.log(answer) /* Devuelve una respuesta aleatoria a una pregunta */
+console.log(facts) /* Devuelve una dato curioso */
 ```
 
 #### En un bot de Discord 🤖
@@ -62,17 +62,17 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 
 client.on("message", async message => {
-  /* Devuelve una respuesta */
+  /* Devuelve una dato curioso */
   if (message.content === "comun") {
-    const answer = animaction.answer();
-    message.channel.send(answer);
+    const facts = animaction.facts();
+    message.channel.send(facts);
   }
   /* Devuelve la respuesta en un embed (Discord.JS Version 12)  */
   if (message.content === "embed") {
-    const answer = animaction.answer();
+    const answer = animaction.facts();
     const animaction_embed = new Discord.MessageEmbed()
-        .setTitle('Mi respuesta')
-        .setDescription(answer)
+        .setTitle('Lo sabias')
+        .setDescription(facts)
         .setFooter('Potenciado por animaction');
     message.channel.send(animaction_embed);
   }
@@ -162,4 +162,4 @@ Animaction
 - Puedes apoyarme tambien invitando a mi bot [aqui](https://discord.com/oauth2/authorize?client_id=831865259357896755&permissions=8&scope=bot)
 
 ## Licensia 🗃
-[MIT](https://github.com/KitsuneCode/animaction/blob/main/LICENSE) © KitsuneCode con 🧡
+[MIT](https://github.com/KitsuneCode/animaction/blob/main/LICENSE) © [KitsuneCode](https://kitsunecode.glitch.me) con 🧡
