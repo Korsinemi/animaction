@@ -125,7 +125,9 @@ sip | Gif | Bebe algo | `animaction.sip()`
 ### Texto 😺
 **Opción** | **Tipo** | **Descripción** | **Uso**
 :---: | --- | --- | ---
-answer | Texto | Responde a tu pregunta | `animaction.answer()`
+facts | Texto | Devuelve un dato | `animaction.facts()`
+catfacts | Texto | Devuelve un dato sobre los gatos | `animaction.catfacts()`
+topics | Texto | Devuelve un tema de conversasión | `animaction.topics()`
 ### Imagenes 😺
 **Opción** | **Tipo** | **Descripción** | **Uso**
 :---: | --- | --- | ---
@@ -137,12 +139,20 @@ anime | Imagen | Devuelve una imagen al azar de un anime .w. | `animaction.anime
 Animaction
 ├── v0.0.1
 │   └── 📦 Lanzada oficialmente.
-└── v0.0.2
+├── v0.0.2
+|   ├── ⭐ Cambios.
+|   │    ├── Se agrego una nueva acción Sip.
+|   │    └── Se añadieron mas gifs a las acciones existentes, para un total de 20 x acción.
+|   └── ⭐ Correcciones.
+|        └── Se reparo la accióm Dance.
+└── v0.0.3     
     ├── ⭐ Cambios.
-    │    ├── Se agrego una nueva acción Sip.
+    │    ├── Se agregaron nuevas funciones de texto > topics, catfacts y facts.
     │    └── Se añadieron mas gifs a las acciones existentes, para un total de 20 x acción.
+    ├── ⭐ Remociones.
+    │    └── Se elimino la función answers.
     └── ⭐ Correcciones.
-         └── Se reparo la accióm Dance.
+         └── Se reparo la funcion anime.
 ```
 
 
