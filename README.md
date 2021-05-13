@@ -148,7 +148,7 @@ Animaction
 └── v0.0.3     
     ├── ⭐ Cambios.
     │    ├── Se agregaron nuevas funciones de texto > topics, catfacts y facts.
-    │    └── Se añadieron mas gifs a las acciones existentes, para un total de 20 x acción.
+    │    └── Se añadieron mas gifs a las acciones existentes, para un total de 25 x acción.
     ├── ⭐ Remociones.
     │    └── Se elimino la función answers.
     └── ⭐ Correcciones.
